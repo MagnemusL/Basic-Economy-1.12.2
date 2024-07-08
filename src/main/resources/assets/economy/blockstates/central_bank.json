@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "economy:central_bank"
+    }
+  }
+}

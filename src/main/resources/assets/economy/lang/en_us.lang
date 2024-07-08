@@ -1,0 +1,22 @@
+// COINS
+item.copper_coin.name=0.1$ Coin
+item.copper_coin_stack.name=0.1$ Coin Stack
+item.iron_coin.name=0.5$ Coin
+item.iron_coin_stack.name=0.5$ Coin Stack
+item.gold_coin.name=1$ Coin
+item.gold_coin_stack.name=1$ Coin Stack
+item.diamond_coin.name=5$ Coin
+item.diamond_coin_stack.name=5$ Coin Stack
+
+// BILLS
+item.green_bill.name=10$ Bill
+item.green_bill_stack.name=10$ Bill Stack
+item.yellow_bill.name=50$ Bill
+item.yellow_bill_stack.name=50$ Bill Stack
+item.red_bill.name=100$ Bill
+item.red_bill_stack.name=100$ Bill Stack
+item.purple_bill.name=200$ Bill
+item.purple_bill_stack.name=200$ Bill Stack
+
+// BLOCKS
+tile.central_bank.name=Central Bank
