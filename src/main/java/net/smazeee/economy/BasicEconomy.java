@@ -29,6 +29,7 @@ public class BasicEconomy {
     public static final String COMMON_PROXY = "net.smazeee.economy.proxy.CommonProxy";
     public static final int CENTRAL_BANK_GUI = 2;
 
+    //I got the logs in my loggers logging all my logs
     private static Logger logger;
 
     public static final CreativeTabs BASIC_ECONOMY = new CreativeTabs(CreativeTabs.getNextID(), "basic_economy")  {
